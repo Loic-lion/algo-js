@@ -31,5 +31,5 @@ let n = new Number(
   prompt("entrez le nombre de chiffre à générer aléatoirement")
 );
 
-let resultat = multiRand(parseInt(n));
+let resultat = multiRand(n);
 alert(resultat);
