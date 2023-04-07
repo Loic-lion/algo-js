@@ -11,3 +11,4 @@ function rand10(a, b) {
 let max = 10;
 let min = 1;
 alert("voici un chiffre random entre 1 et 10: " + rand10(max, min));
+
