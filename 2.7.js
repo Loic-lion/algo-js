@@ -1,4 +1,4 @@
-let n = prompt("entrez un chiffre");
+let n = new Number(prompt("entrez un chiffre"));
 let value = 0;
 
 for (let i = 1; i <= n; i++) {
